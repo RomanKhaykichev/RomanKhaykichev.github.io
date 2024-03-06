@@ -1,6 +1,6 @@
 @media print {
   body {
-    font-size: 10pt;
+    font-size: 5pt;
   }
   .no-print {
     display: none;
@@ -70,6 +70,7 @@
     color: #212529;
     text-align: left;
     background-color: #fff;
+    
   }
   
   [tabindex="-1"]:focus {
